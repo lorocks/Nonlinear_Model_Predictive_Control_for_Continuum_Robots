@@ -1,4 +1,9 @@
 # Nonlinear Model Predictive Growth Control for Soft Growth Robots
+Simulation and implementation of a Nonlinear Model Predictive Growth Control for Soft Growth Robots.
+[Research Paper link](https://ieeexplore.ieee.org/document/9274302)
+
+The simulation is done using Matlab.
+
 ## Install CasAdi
 Go to https://web.casadi.org/get/
 <br>
